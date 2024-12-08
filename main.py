@@ -7,7 +7,7 @@ Push switch up to pitch up, down to pitch down, must manually move switch to mid
 Top light turns light on, bottom turns off
 
 *Sources*
-[*] Motor Control - Nerd Cave - Accessed 11/15/2024 - Link: https://www.youtube.com/watch?v=H1Fzil_VUq4
+[*] Motor Control - Shillehtek - Accessed 11/15/2024 - Link: https://shillehtek.com/blogs/news/how-to-use-l298n-motor-driver-with-pico-w?utm_source=youtube&utm_medium=product_shelf
 [*] External Buttons - Nerd Cave - Accessed 11/27/2024 - Link: https://www.youtube.com/watch?v=q_sXuOMiWjY
 """
 from PicoBreadboard import BUTTON
